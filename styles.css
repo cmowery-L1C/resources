@@ -1,0 +1,113 @@
+
+
+	<style>
+
+		p.p1 {
+			font-family: arial;
+			align: center;
+			color: lightgray;
+		}
+		body {
+			width: 100%;
+			background-color: white;
+			text-align:center;
+			font-family: arial;
+		}
+		h1 {
+			color: #0c347c;
+			text-align: center;
+			vertical-align: middle;
+			font-size: 26pt;
+			font-family: sans-serif;
+			}
+		h2 {
+			color: gray;
+			text-align: center;
+			vertical-align: middle;
+			font-size: 22pt;
+			}
+		h3 {
+			color: #578ead;
+			text-align: center;
+			vertical-align: middle;
+			font-size: 16pt;
+			}
+		h4{
+			color: gray;
+			text-align: center;
+			vertical-align: middle;
+			font-size: 12pt;
+			}
+
+		ul {
+			margin-left:33%;
+			margin-right:33%;
+			width:33%;
+			display:inline-block;
+			text-align:left;
+			}
+		
+		li {
+			color: darkgray;
+			}
+
+		a {
+		align: center;
+		color: #7cb4d4;
+		}
+
+		.img1 {
+			align: left;
+			width: 50%
+		}
+
+		table{
+			margin-left: auto;
+			margin-right: auto;
+			width:100px; 
+			float:center; 
+			border: 1px solid black.\;
+			padding-bottom: 20px;
+
+			}
+
+		.tdh {
+			colspan: 4;
+			}
+		.td1 { 
+			max-height: 10px;
+			color: lightgray;
+			width: 25px;
+			padding-right: 200px;
+			}
+		.td2{
+			font-style: bold;
+			font-size: 7pt;
+			padding-left: 20px;
+			}
+		
+		.stars {
+		
+			}
+		.stars  em{
+			font-style: normal;
+			text-decoration: none;
+			color: lightgray;
+			
+			}
+		hr 	{
+			border-style: none;
+			border-top: 6px dotted lightgray;
+			padding-top: 30px;
+			padding-bottom: 30px;
+			max-width: 36px;
+			}
+		.carousel-example-generic {
+			max-height: 50px;
+			}
+		.hiddentext{
+			
+			}
+
+		
+	</style>
