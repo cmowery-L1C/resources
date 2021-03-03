@@ -108,6 +108,10 @@
 		.hiddentext{
 			
 			}
+		summary:active{
+			border: 0px;
+			background-color: lightgray;
+			}
 
 		
 	</style>
