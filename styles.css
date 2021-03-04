@@ -95,6 +95,7 @@
 			color: lightgray;
 			
 			}
+
 		hr 	{
 			border-style: none;
 			border-top: 6px dotted lightgray;
@@ -102,9 +103,11 @@
 			padding-bottom: 30px;
 			max-width: 36px;
 			}
+
 		.carousel-example-generic {
 			max-height: 50px;
 			}
+
 		.hiddentext{
 			
 			}
@@ -112,12 +115,18 @@
 		details summary::-webkit-details-marker {
 			display:none;
 			}
+
 		summary:hover{
 			border: 0px;
 			background-color: #ffe3b1;
 			}
 
 		details[open] summary.envSum{
+			border: 0px;
+			background-color: #ededed;
+			}
+
+		details details[open] summary.chSum{
 			border: 0px;
 			background-color: #ededed;
 			}
