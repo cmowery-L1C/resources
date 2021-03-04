@@ -108,10 +108,17 @@
 		.hiddentext{
 			
 			}
-		summary:active{
+
+		details summary::-webkit-details-marker {
+			display:none;
+			}
+		summary:hover{
 			border: 0px;
-			background-color: lightgray;
+			background-color: #ffe3b1;
 			}
 
-		
+		details[open] summary.env{
+			border: 0px;
+			background-color: #ededed;
+			}
 	</style>
