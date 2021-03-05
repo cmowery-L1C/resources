@@ -113,6 +113,7 @@
 			}
 		details summary {
 			cursor: pointer;
+			border: 0px;
 			}
 		details summary::-webkit-details-marker {
 			display: none;
@@ -121,6 +122,10 @@
 		summary:hover{
 			border: 0px;
 			background-color: #ffe3b1;
+			}
+		summary:visited{
+			border: 0px;
+			background-color: #BFDCED;
 			}
 
 		details[open] summary.envSum{
