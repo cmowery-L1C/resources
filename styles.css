@@ -122,7 +122,7 @@
 
 		summary:hover{
 			border: 0px;
-			background-color: #ffe3b1;
+			background-color: #BFDCED;  /* light orange: #ffe3b1; */
 			}
 
 		details[open] summary.envSum{
