@@ -111,9 +111,11 @@
 		.hiddentext{
 			
 			}
-
+		details summary {
+			cursor: pointer;
+			}
 		details summary::-webkit-details-marker {
-			display:none;
+			display: none;
 			}
 
 		summary:hover{
