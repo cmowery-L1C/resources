@@ -123,9 +123,10 @@
         		-ms-user-select: none;
             		user-select: none;
 			}
-		details summary::-webkit-details-marker {
+		/* details summary::-webkit-details-marker {
 			display: none;
 			}
+		*/
 
 		summary:hover{
 			border: 0px;
